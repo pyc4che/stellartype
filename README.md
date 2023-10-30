@@ -94,4 +94,6 @@ In this model we manual set `n_neighbors` value to *3*. And that is the only dif
 
 Then we can save our models, the whole description is given in the code.
 
+The models could be find by path: `/output/models`
+
 ## Thanks, Bye 👋🏻
